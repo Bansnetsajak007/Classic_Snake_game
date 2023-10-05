@@ -9,8 +9,8 @@ import msvcrt
 import time
 
 # Initialize variables
-height = 20
-width = 20
+height = 30
+width = 30
 game_over = False
 score = 0
 x, y = height // 2, width // 2
